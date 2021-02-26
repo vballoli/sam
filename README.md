@@ -12,7 +12,7 @@ Latest code: `pip install git+https://github.com/tourdeml/sam/`
 Visit [sam-pytorch.readthedocs.io](https://sam-pytorch.readthedocs.io)
 
 # Explanation
-See the blog post ([Tour de ML](https://tourdeml.github.io/blog))
+See the blog post ([Tour de ML](https://tourdeml.github.io/blog/posts/2021-02-26-sam-sharpness-aware-minimization/))
 
 # Citation
 ```
